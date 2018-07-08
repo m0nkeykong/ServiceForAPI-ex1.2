@@ -1,0 +1,20 @@
+ul {
+    list-style: none;
+}
+
+article {
+    width: 350px;
+    border-style: outset;
+    border-right-width: 1px;
+    border-left-width: 1px;
+}
+
+.card {
+    margin-left: 10px !important;
+    width: 395px !important;
+}
+
+.subcat {
+    padding-right: 2px;
+    border-style: groove;
+}
